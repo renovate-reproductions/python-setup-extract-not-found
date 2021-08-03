@@ -28,7 +28,7 @@ setup(
     ],
     extras_require={
         'dev': [
-            'pytest==6.2.1',
+            'pytest==6.2.4',
             'pytest-env',
             'tavern==1.12.2',
             'selenium'
