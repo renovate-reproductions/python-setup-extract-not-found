@@ -30,7 +30,7 @@ setup(
         'dev': [
             'pytest==6.2.1',
             'pytest-env',
-            'tavern==1.12.2',
+            'tavern==1.16.0',
             'selenium'
         ]
     },
